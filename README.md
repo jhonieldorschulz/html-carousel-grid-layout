@@ -1,7 +1,3 @@
-Para complementar o README do repositório https://github.com/jhonieldorschulz/html-carousel-grid-layout, vamos incluir uma seção detalhada explicando o funcionamento do HTML e CSS. Abaixo está uma proposta de atualização do README:
-
----
-
 # HTML Carousel Grid Layout
 
 Este repositório contém um exemplo de um layout de grade combinado com um carrossel implementado em HTML e CSS.
